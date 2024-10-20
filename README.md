@@ -40,4 +40,4 @@ The back-end is powered by Node.js and ExpressJS, with MongoDB for data persiste
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo-url/todo-app.git
+https://github.com/JayPraj25/ToDoApp.git
